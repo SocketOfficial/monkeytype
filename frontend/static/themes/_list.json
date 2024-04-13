@@ -1217,4 +1217,12 @@
     "subColor": "#565861",
     "textColor": "#dcdee3"
   }
-]
+,{
+    "name": "socket",
+    "bgColor": #282a36",
+    "mainColor": "#62b3c5",
+    "subColor": "#708090",
+    "textColor": "#62b3c5"
+  
+}
+
